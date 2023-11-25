@@ -1,2 +1,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="True Sports 1" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-1.png" group-title="SPORTS ID",True Sports 1
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 2" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-2.png" group-title="SPORTS ID",True Sports 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 3" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-3.png" group-title="SPORTS ID",True Sports 3
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 7" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-7.png" group-title="SPORTS ID",True Sports 7
+https://edge1.laotv.la/live/THD7/index.m3u8
+
+
