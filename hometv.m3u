@@ -19,3 +19,9 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 4
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="movie",hbo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3574787127
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
